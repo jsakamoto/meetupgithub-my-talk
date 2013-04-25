@@ -1,4 +1,6 @@
-# About Me
+# Title: Yet another wonderful uses GitHub
+
+# 1. About Me
 
 ## Spec
 - Gender: Male
@@ -16,62 +18,82 @@
 
 Of course, all products are **Open Source!**
 
-# Content
+# 2. Main Subject
 
-- Vendor Audit
-- We need to creating and maintenance documents of operation protocol clearly and strictly.
+## Background
+
+- In my job, we often undergo verdor audit by our customers.
+- So that, we need prepare statement of standard operation procedures strictly which are realized into some documents like MS Word .doc files.
 
 ## Story
 
-- Our boss, Peter, has permission to issue documents that described about operation protocols.
-- Mike has to change one of the document, because he needs to changing a protocol.
+- Our boss, Peter, has permission to issue documents that described about standard operation procedures.
+- One day, Mike has to change one of the document, because he needs to improve a procedure.
 
-## Steps
+## Tasks
 
-- Mike has to record changing history.
-- When Mike finish changing the document, then he need to request to Peter.
-- Peter check the request, and approved with audit
+- Mike need to record changing document history to show the history to our customers when at the vendor audit.
+- When Mike finish editing the document, then he send a e-mail to Peter because he need to obtain approval of his boss.
+- Peter check the request, and approve with audit evidence.
 
-## Need to recording all
+## Need to recording all for audit evidence
 
-- Who request it? 
-- When approved it?
-- What is changing?
 - Why change it?
-- When chaged it? 
-- Who approved it?
+- Who change it?
+- When change it?
+- What is changing it?
+- Who request approval?
+- When request approval?
+- Who approve it?
+- When approve it?
 
-
-- Those works is very chore.
-- But we must that steps.
-- Because it is rule.
+## Those tasks is very chore...!
+- But we must do that.
+- Because "it is rule".
 - How can we do that well!?
 
-## Use GitHub!
+# Use GitHub!
 
-- the format of documents are markdown.
-- documents stored in Git repository on GitHub.
+## Preparing
 
-- Mike fork the repository, and begin editing the document that he need to change... **on GitHub!**
+- Change the format of documents to markdown.
+- Store all documents in Git repository on GitHub.
+
+## New way
+
+- Mike fork the repository, and begin editing the document... **on GitHub!**
 - Yes! You know, we can edit files on GitHub in Web browser.
 - Mike finish editing, then save it - that means commit it - with commit log.
 - Next, Mike send pull request to Peter with the reason of changing the document.
 - Peter check pull request, and if it is ok, merge it - that means approved it!
 
-## recorded all!
+## GitHub Recorded all!
 
-- Who request it? - the person of sending pull request.
-- When approved it? - See commit log.
-- What is changing? - See diff view.
 - Why change it? - See commit log.
-- When chaged it? - See commit log.
-- Who approved it? - See commit log
+- Who change it? - See commit log.
+- When change it? - See commit log.
+- What is changing it? - See diff view.
+- Who request approval? - See history of pull request.
+- When request approval? - See history of pull request.
+- Who approve it? - See commit log.
+- When approve it? - See commit log.
 
-## point
+## One Point
 
-- No need to Git client on PC
+- No need to Git client on PC.
+- Peter and Mike are not IT developers, but they can use Git unknowingly.
+
+# 3. Conclusion
+
+- GitHub can record all of doucment editing and approving activities!
+- Ready to vendor audit.
 
 
-## I want...
+## By the way, I want...
 
 - WYSIWYG editor for editng .md file on github.com
+  - Peter and Mike still need to learn about markdown.
+- Localize in Japanese.
+
+
+
