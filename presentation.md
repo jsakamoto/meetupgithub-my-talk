@@ -134,7 +134,7 @@ Of course, all products are **Open Source!**
 
 !
 
-## By the way, I want...
+## By the way, I wish...
 
 - WYSIWYG editor for editng .md file on github.com
   - Peter and Mike still need to learn about markdown.
